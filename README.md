@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning to implement EEG and EEG+fMRI fusion data analysis methods using machine learning techniques.
 - 🤝 I’m looking to collaborate on any experimentally-driven and biologically-plausible modeling projects (especially using neurally-inspired deep convolutional neural networks and reinforcement learning).
 - 📫 You can reach me at batiyilmaz4@gmail.com
+- P.S. I'm also an avid lifelong learner, listener, and collector of music, which makes me highly enthusiastic when it comes to psychoacoustics as well!
+
 
 <!---
 batiyilmaz/batiyilmaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
