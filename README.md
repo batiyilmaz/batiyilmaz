@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to implement EEG+fMRI+eye-tracking fusion data analysis in an extensive manner using machine learning techniques and the combination of univariate and multivariate analysis methods.
 - 🤝 For the future, I’m looking to collaborate on any experimentally-driven and biologically-plausible modeling projects (especially using neurally-inspired deep convolutional neural networks and reinforcement learning).
 - 📫 You can reach out to me via batiyilmaz4@gmail.com
-- 🎵 P.S. I'm also an avid lifelong learner, listener, and collector of music, which makes me an enthusiast when it comes to psychoacoustics and music cognition as well!
+- 🎵 P.S. I'm also an avid lifelong learner, maker, listener, and collector of music, which makes me an enthusiast when it comes to psychoacoustics and music cognition as well!
 
 
 <!---
