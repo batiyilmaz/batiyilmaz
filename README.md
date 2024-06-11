@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @batiyilmaz, a social, cognitive and affective neuroscience (SCAN) M.Sc. graduate with a background in psychology.
 - 🧠 I’m highly interested in computational cognitive neuroscience (focusing on visual perception) -- not to mention neuroscience-inspired artificial intelligence which makes me very excited for delving into more each day!
+- I have been specializing in multivariate pattern analysis using cutting-edge machine learning techniques applied to EEG.
 - 🌱 I’ve been learning and practicing the implementation of EEG + fMRI + DNN fusion data analysis extensively using machine learning techniques and the combination of univariate and multivariate analysis methods.
 - 🤝 For the future, I’m looking to collaborate on experimentally-driven and biologically plausible modeling projects (especially using neurally-inspired deep neural networks).
 - 🎵 P.S. I'm also an avid lifelong learner, maker, listener, and collector of music, which makes me an enthusiast when it comes to psychoacoustics and music cognition as well!
