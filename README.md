@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning to implement EEG + fMRI + DNN fusion data analysis extensively using machine learning techniques and the combination of univariate and multivariate analysis methods.
 - 🤝 For the future, I’m looking to collaborate on experimentally-driven and biologically plausible modeling projects (especially using neurally-inspired deep neural networks).
 - 🎵 P.S. I'm also an avid lifelong learner, maker, listener, and collector of music, which makes me an enthusiast when it comes to psychoacoustics and music cognition as well!
+- Since the start of 2024, I have been creating wikis for EEG multivariate pattern analysis, complex Morlet Wavelet function, as well as machine learning.
 - My Google Scholar page: https://scholar.google.com/citations?user=aO8EfVUAAAAJ&hl=en
 
 <!---
